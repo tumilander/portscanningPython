@@ -1,10 +1,4 @@
-# portscan
-# portscan
-# portscan
-# portscan
-# portscan
-# portscan
-# tumilander
-# tumilander
 # portscanningPython
-# portscanningPython
+
+# para user o script no linux:
+# python3 nomescript.py <ip/url>
